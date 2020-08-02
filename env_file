@@ -1,0 +1,4 @@
+//.env
+module.exports = {
+  authSecret: ''
+}
